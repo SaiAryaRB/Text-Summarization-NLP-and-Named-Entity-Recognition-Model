@@ -16,8 +16,10 @@ These youtube links will provide visual aids that could help in Studying or othe
 The Second Notebook - TextSummarizationAttempt is an NLP built from scratch that uses the dataset - gopalkalpande/bbc-news-summary. It uses a Sequence to Sequence Encoder Decoder Model to perform text Summarization . However , due to Lack of computational Resources this does not function accurately.
 
 Contributing
+
 Contributions are welcome! If you find a bug or want to improve the program, feel free to fork the repository and submit a pull request.
 
 License
+
 This project is open-source and available under the MIT License.
 
